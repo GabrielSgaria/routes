@@ -1,0 +1,12 @@
+
+.header {
+    background-color: rgb(9 9 11);
+    color: #fff;
+    display: flex;
+    gap: 10px;
+}
+
+.header a {
+    text-decoration: none;
+    color: #fff
+}
