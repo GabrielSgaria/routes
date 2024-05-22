@@ -7,6 +7,7 @@ export function Header() {
             <h1>Meu site</h1>
             <Link href='/'>Home</Link>
             <Link href='/contatos'>Contatos</Link>
+            <Link href='/repositorios'>Repositorios</Link>
             <Link href='/dashboard'>Dashboard</Link>
 
         </header>
